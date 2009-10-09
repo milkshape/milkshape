@@ -1,0 +1,14 @@
+INTRODUCTION
+
+#milkshape is a collaborative project experiment on the Internet.
+We expect through some originals process to encourage many-hands works of art.
+
+So #milkshape is not an art gallery, not a personal portfolio, not a social network : it's an online workshop.
+
+DEPENDENCES
+
+    * python
+    * python-sqlite
+    * python-mysqldb
+    * python-setuptools
+    * python-imaging (pil)
